@@ -1,11 +1,7 @@
 text.txt
 For pull-request 
 Added 2 lines
-added 3 lines
-added 4 lines
-
-added 6 lines
-________________
-ya-ne-nuzen
-
+Added 3 lines
+Added 4 lines
+Added line 5 for delete
 
