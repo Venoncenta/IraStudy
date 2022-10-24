@@ -11,3 +11,4 @@ more-more lines
 
 More lines to text in feature branch
 
+Add lines for conflict into feature
