@@ -9,3 +9,5 @@ add line in feature-branch
 
 more-more lines
 
+More lines to text in feature branch
+
